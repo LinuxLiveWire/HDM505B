@@ -1,5 +1,6 @@
 //
 // Created by sergey on 10.02.16.
+// Last modified by sergey on 10.02.16.
 //
 
 #include "dials.h"
